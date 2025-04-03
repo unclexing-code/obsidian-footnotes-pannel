@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-footnotes-panel",
+  "name": "Footnotes Panel",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "在侧边栏显示文档中的脚注",
+  "author": "Your Name",
+  "isDesktopOnly": false,
+  "js": "main.js"
+} 
